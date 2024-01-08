@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "common_data",
+  "esp32-server"
+]
+
+resolver = "2"
